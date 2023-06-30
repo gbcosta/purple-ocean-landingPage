@@ -2,8 +2,8 @@ import PurpleOceanImage from "../../assets/images/PurpleOceanImage.jpeg";
 
 const HomeImage = (): JSX.Element => {
   return (
-    <div>
-      <img src={PurpleOceanImage}></img>
+    <div className="flex justify-center ">
+      <img className="max-width" src={PurpleOceanImage}></img>
     </div>
   );
 };
