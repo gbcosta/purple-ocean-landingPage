@@ -5,7 +5,9 @@ const ColorBall = (props: { color: string }): JSX.Element => {
 const ColorPalette = (): JSX.Element => {
   return (
     <div className="mt-32">
-      <h2 className="text-white text-4xl text-center">Color Palette</h2>
+      <h2 className="text-white text-4xl text-center font-bold">
+        Color Palette
+      </h2>
       <div className="flex items-center justify-center flex-col max-sm:flex-row gap-6 mt-16">
         <div className="flex gap-6 flex-row max-sm:flex-col">
           <ColorBall color="bg-yellow" />
