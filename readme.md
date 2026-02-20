@@ -14,5 +14,5 @@
 A landing page to showcase the Purple Ocean Theme. I really didn't like any themes in the vscode marketplace so i decided to create my own theme.Hope you like this theme like me ;).
 
 <img src="./public/home.png"/>
-- [Ocean Purple Site](https://purpleocean.netlify.app/)
+- ![Ocean Purple Site](https://purpleocean.netlify.app/)
 </div>
